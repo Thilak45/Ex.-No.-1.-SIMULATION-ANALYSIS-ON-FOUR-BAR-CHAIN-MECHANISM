@@ -1,6 +1,6 @@
 # Ex. No.  - SIMULATION ANALYSIS ON FOUR BAR CHAIN MECHANISM
 
-## DATE: 
+## DATE: 23-09-24
 
 ## AIM:
 
@@ -53,10 +53,10 @@
 
 
 ## Output:
+![image](https://github.com/Adchayakiruthika18/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/147139995/97830898-597a-45ab-a78c-b0e213a64e8d)
 
-
-### Name:
-### Register Number: 
+### Name: VELLACHI TILAK
+### Register Number: 212223240172
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
